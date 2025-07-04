@@ -3018,7 +3018,7 @@ img {
    
 .section10 {
     padding: var(--section-padding);
-    background: url('sec10.png') no-repeat center center / cover;
+    background: url('bg.png') no-repeat center center / cover;
     background-color: var(--color-dark-bg);
     color: var(--color-text-light);
     position: relative;
